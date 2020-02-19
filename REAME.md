@@ -1,5 +1,16 @@
-# JavaScript
+# JavaScript - ALURA
+Projeto desenvolvido: Controle de pacientes de uma nutricionista.
+**Tópicos:**
+* Variáveis e Operadores;
+* Arrays, Loop e Estilos;
+* Eventos, Formulários e Criando Elementos;
+* Boas Práticas com JavaScript;
+* Validação de Formulários;
+* Remoção, Delegação e Animação;
+* Filtrando uma tabela
+* AjaxBuscando pacientes com AJAX
 
+![](https://github.com/bia-rodrig/cursoalura-javascript/blob/master/imagens_readme/JavaScript_AparecidaNutricionista.jpg)
 
 
 ## DOM - Document Object Model
@@ -435,5 +446,5 @@ botaoAdicionar.addEventListener("click", function(){
 })
 ```
 
-![](\imagens_readme\JavaScript_AparecidaNutricionista.jpg)
+
 
